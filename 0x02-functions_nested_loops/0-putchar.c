@@ -1,11 +1,10 @@
 #include "main.h"
-/**
- * main - print _putchar
- * is written by charles
- * Return: 0
- * */
 
-int main(void);
+/**
+ * main - Prints _putchar and a new lin
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
