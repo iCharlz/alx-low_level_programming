@@ -4,12 +4,12 @@
  * @a: a - Variable
  * @b: b - variable
  * Return: Always 0.
- */
+*/
 int mul(int a, int b)
 {
- int mul;
+	int mul;
 
- mul = a * b;
+	mul = a * b;
 
- return (mul);
+	return (mul);
 }
