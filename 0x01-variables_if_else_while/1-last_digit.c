@@ -5,7 +5,7 @@
  *main - Entry point
  *Description: 'get the last digit of a number'
  *Return: always 0
- */
+*/
 int main(void)
 {
 	int n;
