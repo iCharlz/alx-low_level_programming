@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * new line
+ * Return: 0
+*/
 int main(void)
 {
 	int n;
