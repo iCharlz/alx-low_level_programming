@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
- * free_listint - Free Linked List
- * @head: listint_t Lists Freed
- */
+* free_listint - Free Linked List
+* @head: listint_t Lists Freed
+*/
 void free_listint(listint_t *head)
 {
 	listint_t *temp;

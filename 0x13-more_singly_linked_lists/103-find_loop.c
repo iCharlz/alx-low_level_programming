@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
- * find_listint_loop - Find the loop in a linked list
- * @head: linked list to search for
- *
- * Return: address the node where the loop starts, or NULL
- */
+* find_listint_loop - Find the loop in a linked list
+* @head: linked list to search for
+*
+* Return: address the node where the loop starts, or NULL
+*/
 listint_t *find_listint_loop(listint_t *head)
 {
 	listint_t *slow = head;

@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
- * sum_listint - Calculate the Sum of all data in a listint_t list
- * @head: First node in the linked list
- *
- * Return: Resulting sum
- */
+* sum_listint - Calculate the Sum of all data in a listint_t list
+* @head: First node in the linked list
+*
+* Return: Resulting sum
+*/
 int sum_listint(listint_t *head)
 {
 	int sum = 0;
