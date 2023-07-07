@@ -2,7 +2,7 @@
 
 /**
 * set_bit - set of a bit at a given index to 1
-* @n: point to the num to change
+* @n: point to the number to change
 * @index: index of the bit to set to 1
 *
 * Return: 1 for success, -1 for failure
